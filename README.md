@@ -19,7 +19,7 @@ This lab consists of setting up a home lab for Elastic Stack SIEM using the Elas
 
 <p align="center">
 <br />
-After Successfully Installating Elastic Agent, I Began Generating Security Events on the Kali VM:  <br/>
+After Successfully Installing Elastic Agent, I Began Generating Security Events on the Kali VM:  <br/>
 <img src="https://imgur.com/Y3OUufU.png" height="80%" width="80%"/>
 <br />
 <img src="https://imgur.com/mDaRUyj.png"height="80%" width="80%"/>
