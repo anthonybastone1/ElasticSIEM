@@ -1,7 +1,7 @@
 <h1>Elastic Stack SIEM Home Lab</h1>
 
 <h2>Description</h2>
-This lab consists of setting up a home lab for Elastic Stack SIEM using the Elastic Stack web portal and a Kali Linux VM inside of VMWare. I also generated security events on the Kali VM, setup an agent to forward data to the SIEM, and query and analyze the logs in the SIEM.
+This lab consists of setting up a home lab for Elastic Stack SIEM using the Elastic Stack web portal and a Kali Linux VM inside of VMware. I also generated security events on the Kali VM, setup an agent to forward data to the SIEM, and query and analyze the logs in the SIEM.
 <br />
 
 
